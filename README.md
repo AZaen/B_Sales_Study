@@ -21,6 +21,6 @@ Analyze customer sales data to identify what affects bike sales
 
 
 📎 Files
-`Raw-Data.xlsx` - Raw dataset
-`Sales Dashboard.xlsx` - The dashboard, pivottables, and the clean data
-`Dashboard.png` - A screenshot of the dashboard
+- `Raw-Data.xlsx` - Raw dataset
+- `Sales Dashboard.xlsx` - The dashboard, pivottables, and the clean data
+- `Dashboard.png` - A screenshot of the dashboard
