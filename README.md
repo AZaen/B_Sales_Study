@@ -1,5 +1,5 @@
 # B_Sales_Study
-A study done on a public dataset to analyze bike sales
+A study done on a public dataset to analyze sales
 
 📌 Tools Used
 Microsoft Excel
